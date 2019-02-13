@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string name="class1">Table Tennis</string>
+    <string name="class2">Statistics</string>
+    <string name="class3">African Studies</string>
+    <string name="class4">Music Appreciation</string>
+    <string name="class5">Secret Class</string>
+
+
+
+
+    <string-array name="array">
+        <item>@string/class1</item>
+        <item>@string/class2</item>
+        <item>@string/class3</item>
+        <item>@string/class4</item>
+        <item>@string/class5</item>
+    </string-array>
+</resources>
